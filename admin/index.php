@@ -59,25 +59,25 @@ require_admin();
         </li>
 
         <li>
-            <a href="#">
+            <a href="<?= BASE_URL . 'admin/lessons' ?>">
                 Lessons
             </a>
         </li>
 
         <li>
-            <a href="#">
+            <a href=" <?= BASE_URL . 'admin/quetions'?>">
                 Questions
             </a>
         </li>
 
         <li>
-            <a href="#">
+            <a href="<?= BASE_URL . 'admin/vocabulary'?>">
                 Vocabulary
             </a>
         </li>
 
         <li>
-            <a href="#">
+            <a href="<?= BASE_URL . 'admin/test'?>">
                 Tests
             </a>
         </li>
