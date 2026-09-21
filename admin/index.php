@@ -63,6 +63,12 @@ require_admin();
                 Lessons
             </a>
         </li>
+        
+        <li>
+            <a href="<?= BASE_URL . 'admin/lesson_sections' ?>">
+                Lesson Sections
+            </a>
+        </li>
 
         <li>
             <a href=" <?= BASE_URL . 'admin/quetions'?>">
