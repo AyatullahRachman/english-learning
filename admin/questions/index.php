@@ -98,6 +98,10 @@ $difficultyLabels = [
     <title>
         Questions - <?= e(APP_NAME) ?>
     </title>
+    
+    <link
+        rel="stylesheet"
+        href="<?= BASE_URL . 'assets/css/style.css' ?>"
 
 </head>
 

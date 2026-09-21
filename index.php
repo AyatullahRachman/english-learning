@@ -19,6 +19,10 @@ require_once __DIR__ . '/includes/functions.php';
 
     <title><?= e(APP_NAME) ?></title>
 
+    <link
+        rel="stylesheet"
+        href="<?= BASE_URL . 'assets/css/style.css' ?>"
+    
 </head>
 
 <body>

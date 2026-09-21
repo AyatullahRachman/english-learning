@@ -49,6 +49,10 @@ $topics = $stmt->fetchAll();
         Topics - <?= e(APP_NAME) ?>
     </title>
 
+    <link
+        rel="stylesheet"
+        href="<?= BASE_URL . 'assets/css/style.css' ?>"
+
 </head>
 
 <body>
