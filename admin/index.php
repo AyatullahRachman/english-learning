@@ -71,7 +71,7 @@ require_admin();
         </li>
 
         <li>
-            <a href=" <?= BASE_URL . 'admin/quetions'?>">
+            <a href=" <?= BASE_URL . 'admin/questions'?>">
                 Questions
             </a>
         </li>
