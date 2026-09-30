@@ -22,7 +22,8 @@ require_once __DIR__ . '/includes/functions.php';
     <link
         rel="stylesheet"
         href="<?= BASE_URL . 'assets/css/style.css' ?>"
-    
+    >
+
 </head>
 
 <body>
