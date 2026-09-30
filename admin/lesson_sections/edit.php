@@ -445,7 +445,7 @@ if (is_post()) {
             Update Lesson Section
         </button>
 
-        <a href="<?= BASE_URL . 'admin/lessons_sections/' ?>">
+        <a href="<?= BASE_URL . 'admin/lesson_sections/' ?>">
             Cancel
         </a>
 
